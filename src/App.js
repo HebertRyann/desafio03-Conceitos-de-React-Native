@@ -32,7 +32,7 @@ export default function App() {
         return repository
       }
     })
-    setRepositories([likedRepository]);
+    setRepositories(repositoriesUpdated);
   }
 
   return (
