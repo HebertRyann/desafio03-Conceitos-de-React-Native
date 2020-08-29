@@ -2,9 +2,9 @@
 
 Esse foi o desafio 03 do bootcamp
 
-Fizemos um app mobile consumindo uma api desenvolvida por nos
+Fizemos um app mobile consumindo uma Api desenvolvida por nos
 
-construimos toda a interface do app em react native 
+construimos toda a interface do app em React Native 
 
 Para iniciar o projeto
 
